@@ -1,0 +1,31 @@
+HOPINGBOYZ NO-COPY LICENSE (HBYZ-NC 2025)
+
+Copyright © 2025 Hopingboyz
+
+Permission is granted to any person obtaining a copy of this Software to use it
+for personal or internal purposes only.
+
+🚫 Not allowed without explicit written permission from the copyright holder:
+- Copying or redistributing the Software, in whole or in part
+- Modifying, editing, translating, or creating derivative works
+- Publishing or making the Software publicly accessible
+- Selling, licensing, sublicensing, renting, or commercial use
+- Reusing code, assets, UI design, or structure in any other project
+
+Ownership:
+All rights, title, and interest in the Software remain exclusively with Hopingboyz.
+
+No Endorsement:
+You may not imply that Hopingboyz or DragonLabs endorses your use of the Software.
+
+Legal:
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM OR
+CONNECTED WITH THE USE OF THIS SOFTWARE.
+
+Violation:
+Any violation of this license automatically terminates your rights and may result
+in legal action.
+
+For permissions beyond this license, contact:
+Discord Username :- hopingboy
