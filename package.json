@@ -1,0 +1,74 @@
+{
+  "name": "vps-monitor-pro-agent",
+  "version": "1.0.0",
+  "description": "VPS Monitor Pro+ Official Node Agent - Secure real-time monitoring daemon with full system metrics collection",
+  "main": "agent.js",
+  "bin": {
+    "vps-monitor-agent": "./agent.js"
+  },
+  "scripts": {
+    "start": "node agent.js",
+    "dev": "node --watch agent.js",
+    "test": "echo \"No tests specified\" && exit 0",
+    "setup": "npm install",
+    "postinstall": "echo 'VPS Monitor Pro+ Agent installed. Please configure your .env file before running.'"
+  },
+  "keywords": [
+    "vps",
+    "monitor",
+    "monitoring",
+    "system",
+    "metrics",
+    "agent",
+    "daemon",
+    "server",
+    "performance",
+    "cpu",
+    "memory",
+    "disk",
+    "network",
+    "uptime"
+  ],
+  "author": "Hopingboyz",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hopingboyz/vps-monitor-pro-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hopingboyz/vps-monitor-pro-agent/issues"
+  },
+  "homepage": "https://github.com/hopingboyz/vps-monitor-pro-agent#readme",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "systeminformation": "^5.21.22",
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "prettier": "^3.0.3"
+  },
+  "files": [
+    "agent.js",
+    "README.md",
+    "LICENSE",
+    ".env.example"
+  ],
+  "os": [
+    "linux",
+    "darwin",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ],
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  }
+}
